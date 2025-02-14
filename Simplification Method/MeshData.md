@@ -77,8 +77,8 @@ face1 = {vertex1, vertex2, vertex3}
         std::vector<Vertex> vertices;
         std::vector<HalfEdge> halfEdges;
         std::vector<Face> faces;
-    };
-```
+    };```
+
 + 장점
   + Vertex, Edge, Face를 빠르게 탐색 가능
     + 한 정점에 인접한 모든 면이나, 한 면의 경계에 있는 정점을 쉽게 접근 가능
